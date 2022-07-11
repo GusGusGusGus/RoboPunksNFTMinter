@@ -46,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
     "dotenv": "^16.0.1",
     "hardhat": "^2.9.9"
   }
